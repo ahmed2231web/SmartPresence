@@ -1,0 +1,38 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Database files
+*.db
+*.sqlite3
+
+# User-specific files
+Faces/*
+!Faces/.gitkeep
+
+# Trained model files (optional, comment out if you want to include these)
+# classifier.xml
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db

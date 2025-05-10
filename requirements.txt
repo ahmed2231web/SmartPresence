@@ -1,0 +1,20 @@
+# Face Recognition Project Dependencies
+
+# GUI
+# tkinter is part of the Python standard library, no need to install separately
+
+# Computer Vision
+opencv-python
+opencv-contrib-python  # For face recognition modules
+
+# Image Processing
+Pillow  # PIL fork
+
+# Data Handling
+numpy
+
+# Database
+# sqlite3 is part of the Python standard library, no need to install separately
+
+# Text to Speech
+pyttsx3
